@@ -111,8 +111,6 @@ jwt-backend/
         DATABASE_URL=YOUR_DATABASE_URL
         ```
 
-    ```
-
 4.  Initialize the PostgreSQL database:
 
     -   Create a new database
