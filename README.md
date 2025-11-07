@@ -104,13 +104,11 @@ jwt-backend/
 
 3.  Create a .env file in the jwt-backend directory with the following variables:
 
-        ```
-
-    PORT=YOUR_PORT
-    ACCESS_SECRET=YOUR_ACCESS_SECRET
-    REFRESH_SECRET=YOUR_REFRESH_SECRET
-    DATABASE_URL=YOUR_DATABASE_URL
-
+        ```env
+        PORT=YOUR_PORT
+        ACCESS_SECRET=YOUR_ACCESS_SECRET
+        REFRESH_SECRET=YOUR_REFRESH_SECRET
+        DATABASE_URL=YOUR_DATABASE_URL
         ```
 
     ```
@@ -145,7 +143,7 @@ jwt-backend/
 
     ```typescript
     // src/utils/url.ts
-    export const API_URL = 'http://localhost:YOUR_BACKEND_PORT';
+    export const url = 'http://localhost:YOUR_BACKEND_PORT';
     ```
 
     Replace `YOUR_BACKEND_PORT` with the port number where your backend is running.
