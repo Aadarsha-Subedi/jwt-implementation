@@ -184,20 +184,6 @@ The frontend will be available at the port your server runs
 -   Token validation checks both expiry and database status
 -   Automatic cleanup of expired tokens from the database
 
-## Development
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the ISC License.
-
 ## Acknowledgments
 
 -   Thanks to all the open-source libraries used in this project
