@@ -1,6 +1,6 @@
 # JWT Authentication Implementation
 
-A full-stack web application demonstrating secure authentication using JSON Web Tokens (JWT) with React and Express.js. The project includes both access and refresh token implementation, protected routes, and a blog feature to demonstrate authenticated API access.
+A mini-project full-stack web application demonstrating secure authentication using JSON Web Tokens (JWT) with React and Express.js. The project includes both access and refresh token implementation, protected routes, and a blog feature to demonstrate authenticated API access.
 
 ## Features
 
